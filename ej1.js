@@ -1,0 +1,1 @@
+var name, lastName, age, dateBorn, direction;
